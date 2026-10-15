@@ -1,0 +1,6 @@
+.DS_Store
+dist/
+**/bin/
+**/obj/
+*.zip
+smoke-test-error.txt
